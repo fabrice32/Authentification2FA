@@ -1,0 +1,19 @@
+{
+  "name": "authentification2fa",
+  "version": "1.0.0",
+  "description": "Développement d'une page de connexion sécurisée avec authentification à deux facteurs (2FA)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabrice32/Authentification2FA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabrice32/Authentification2FA/issues"
+  },
+  "homepage": "https://github.com/fabrice32/Authentification2FA#readme"
+}
