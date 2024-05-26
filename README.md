@@ -7,7 +7,7 @@ cd frontend
 
 npm install
 
-npm start
+PORT=4000 npm start
 
 
 Backend:
